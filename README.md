@@ -37,12 +37,12 @@
 I'm **Bryton Micheal**, an enthusiastic and dedicated software engineering student at **Moringa School**. My journey in tech is driven by a passion for building elegant solutions to real-world problems. I thrive in collaborative environments and am constantly exploring new technologies to expand my skillset.
 
 - 🔭 I’m currently working on **sharpening my full-stack development skills** through Moringa's intensive program.
-- 🌱 I’m currently learning **Ruby on Rails, React, and Advanced JavaScript**.
+- 🌱 I’m currently learning ** Phyton,Css,Html and Advanced Java**.
 - 👯 I’m looking to collaborate on **open-source projects and innovative web applications**.
 - 🤔 I’m looking for help with **best practices in software architecture and design patterns**.
 - 💬 Ask me about **my journey at Moringa, web development basics, or my favorite tech stacks**.
 - 📫 How to reach me: **Check out the social links above!**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes... while my code compiles.** 🧩
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes... while my code compiles.Just kidding anyway** 🧩
 
 ---
 
