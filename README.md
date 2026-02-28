@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Bryton Micheal 👋</h1>
+<h1 align="bottom left
+">Hi there, I'm Bryton Micheal 👋</h1>
 <h3 align="center">A passionate Software Engineering Student at Moringa School</h3>
 
 <div align="center">
