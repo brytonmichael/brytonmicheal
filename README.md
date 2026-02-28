@@ -1,6 +1,6 @@
 <h1 align="bottom left
 ">Hi there, I'm Bryton Micheal 👋</h1>
-<h3 align="center">A passionate Software Engineering Student at Moringa School</h3>
+<h3 align="center"> Trader,A passionate Software Engineering Student at Moringa School</h3>
 
 <div align="center">
   
@@ -33,7 +33,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 WHO AM I
 
 I'm **Bryton Micheal**, an enthusiastic and dedicated software engineering student at **Moringa School**. My journey in tech is driven by a passion for building elegant solutions to real-world problems. I thrive in collaborative environments and am constantly exploring new technologies to expand my skillset.
 
@@ -51,7 +51,7 @@ I'm **Bryton Micheal**, an enthusiastic and dedicated software engineering stude
 
 Here are the technologies I've been working with:
 
-<div align="center">
+<div align="BOTTOM">
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
